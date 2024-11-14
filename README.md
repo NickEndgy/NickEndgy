@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Nick Endgy or Haby Coder
 <!--
 **NickEndgy/NickEndgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
